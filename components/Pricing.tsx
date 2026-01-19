@@ -38,7 +38,6 @@ const Pricing: React.FC = () => {
               "Todos os módulos e atualizações",
               "Coleção completa com 5 E-books exclusivos",
               "Bônus: Guia de Receitas Práticas",
-              "Bônus: Planner de Rotina Realista",
               "Garantia incondicional de 7 dias"
             ].map((item, idx) => (
               <li key={idx} className="flex items-center gap-3 text-slate-700">
